@@ -1,2 +1,2 @@
 # TensorFlow
-Learn from Morvan, AndrewHG and et al.
+Learn from Morvan, AndrewNG and et al.
