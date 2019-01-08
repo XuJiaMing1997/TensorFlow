@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 
 
 Animation = True
-Decay = True
 # Animated figure will be automatically closed in PyCharm, so add pause(10000)
 
 
